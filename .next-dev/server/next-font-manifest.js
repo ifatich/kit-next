@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Applications/XAMPP/xamppfiles/htdocs/explore next/kit-next/src/app/layout\":[\"static/media/498aa3656e82a9cd-s.p.ttf\",\"static/media/e12c7d83a8f6ff1e-s.p.ttf\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
